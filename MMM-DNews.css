@@ -1,0 +1,11 @@
+.MMM-DNews .p{
+	text-align: justify;
+}
+.MMM-DNews .imgDes {
+  width: 13%;
+  height: 13%;
+  margin-left: 10px;
+  margin-right: 10px;
+  overflow: hidden;
+  float: left;
+}
