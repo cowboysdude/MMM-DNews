@@ -1,0 +1,24 @@
+{
+  "name": "mmm-dnews",
+  "version": "1.0.0",
+  "main": "MMM-DNews.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cowboysdude",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboysdude/MMM-DNews.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cowboysdude/MMM-DNews/issues"
+  },
+  "homepage": "https://github.com/cowboysdude/MMM-DNews#readme",
+  "description": ""
+}
