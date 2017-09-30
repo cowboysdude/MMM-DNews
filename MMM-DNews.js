@@ -7,8 +7,6 @@
    
 Module.register("MMM-DNews", {
        
-        //requiresVersion: "2.1.0",
-       
        // Module config defaults.
        defaults: {
            updateInterval: 60*1000, // every 10 minutes
@@ -29,7 +27,7 @@ Module.register("MMM-DNews", {
        
        getTranslations: function() {
         return {
-            da: "translations/da.json"
+            nl: "translations/nl.json"
         };
     },
        
@@ -45,7 +43,7 @@ Module.register("MMM-DNews", {
            
            
            // Set locale.
-           this.nascar = {};
+           this.news = {};
            this.today = "";
            this.activeItem = 0;
            this.rotateInterval = null;
