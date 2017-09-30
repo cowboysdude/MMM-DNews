@@ -1,0 +1,21 @@
+{
+  "Thu,": "collectie,",
+  "Fri,": "vr,",
+  "Mon,": "ma,",
+  "Tue,": "Din,",
+  "Wed,": "trouwen,",
+  "Sat,": "Za,",
+  "Sun,": "Zon,",
+  "Jan":"jan",
+  "Feb":"februari",
+  "Mar":"maart",
+  "Apr":"april",
+  "May":"mei",
+  "Jun":"juni",
+  "Jul":"juli",
+  "Aug":"augustus",
+  "Sep":"september",
+  "Oct":"oktober",
+  "Nov":"november",
+  "Dec":"december"
+}
