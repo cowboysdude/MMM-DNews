@@ -8,6 +8,9 @@ MagicMirror/modules
 
 git clone https://github.com/cowboysdude/MMM-DNews
 
+Go to: MMM-Dnews
+Type: npm install
+
 Add to Config.js
 
      {
